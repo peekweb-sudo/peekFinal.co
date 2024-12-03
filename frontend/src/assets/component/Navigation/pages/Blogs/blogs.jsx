@@ -9,7 +9,7 @@ function Blogs() {
             <p>read about our latest interest in tech and Things in general</p>
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi rerum voluptatum cupiditate a? Illo itaque doloribus cum, consequuntur quasi laudantium.</p>
             <button>READ MORE</button>
-
+    <hr />
         </div>
 
     </header>
