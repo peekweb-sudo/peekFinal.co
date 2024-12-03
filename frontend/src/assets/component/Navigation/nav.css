@@ -1,0 +1,38 @@
+header{
+background: var(--secondary-color);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+nav img{
+    width: 100px;
+    margin: auto 0;
+
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 1.5rem;
+    font-size: 1.1rem;
+
+}
+nav button{
+    margin: auto 0;
+    color: var(--primary-color);
+    background: var(--secondary-color);
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+
+}
+nav li{
+    margin: auto 0;
+
+}
+nav a{
+    text-decoration: none;
+    color: var(--primary-color);
+
+}

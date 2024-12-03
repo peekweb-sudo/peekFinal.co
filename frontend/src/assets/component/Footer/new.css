@@ -1,0 +1,34 @@
+.news{
+    display: flex;
+}
+.newsleft{
+    width: 350px;
+    color: var(--secondary-color);
+
+}
+.home-blog{
+    display: grid;
+    gap: 1rem;
+    width: 100%;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+}
+.home-blog img{
+    width: 100px;
+}
+.blog-content{
+    display: flex;
+    gap: 1rem;
+    width: 340px;
+}
+.blog-content b{
+    font-size: 1.2rem;
+    color: var(--secondary-color);
+
+}
+.blog-content p{
+color: var(--secondary-color);
+}
+.nw{
+    background: var(--primary-color);
+    padding: 2rem 0;
+}

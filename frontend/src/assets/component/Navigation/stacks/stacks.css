@@ -1,0 +1,16 @@
+.stacks{
+    place-content: center;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.stacks-cont h1{
+    text-align: center;
+    width: fit-content;
+    margin: 0 auto;
+}
+section{
+    background: var(--primary-color);
+    min-height:50vh ;
+    place-content: center;
+}

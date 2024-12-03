@@ -1,0 +1,20 @@
+.slider {
+  position: relative;
+  min-height: 100vh;
+}
+
+.slider p,
+.slider h1 {
+  text-align: center;
+  color: var(--primary-color);
+}
+
+.slider img {
+  width: 70vh;
+  max-width: 1000px;
+  margin: 0 auto;
+  aspect-ratio: 1/1;
+}
+.slides-content {
+    padding: 1rem 0;
+}

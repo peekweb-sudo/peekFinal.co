@@ -1,0 +1,53 @@
+.about {
+    min-height: 100vh;
+    display: flex;
+    gap: 10rem;
+    position: relative;
+}
+.about h1{
+    font-size: 4rem;
+    margin-bottom: 2rem;
+}
+.about img{
+    max-width: 500px;
+    height:500px ;
+}
+.about .info-content p{
+    max-width: 400px;
+    font-size: 1.2rem;
+    color: var(--text-color);
+}
+.about button{
+    margin-top: 4rem;
+}
+.services{
+    display: flex;
+    justify-content: space-between;
+    min-height: 100vh;
+}
+.services .service-content{
+}
+.service-content h1{
+    font-size: 4rem;
+}
+.service-content b{
+    font-size: 1.4rem;
+}
+.service-content p{
+    max-width: 400px;
+    margin-top: 1rem;
+}
+.services img{
+    width: 500px;
+    height: 400px;
+}
+.service-content button{
+    color: white;
+    border: none;
+    padding: .5rem;
+    font-weight: 500;
+    margin-top: 1rem;
+}
+.ab{
+    background: var(--secondary-color);
+}

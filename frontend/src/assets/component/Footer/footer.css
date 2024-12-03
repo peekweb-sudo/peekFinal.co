@@ -1,0 +1,42 @@
+
+
+.copy{
+    display: flex;
+    justify-content: space-between;
+    padding-block: 0 1rem;
+}
+.copy img{
+    width: 150px;
+}
+.botom{
+    text-align: center;
+    padding-block:.5rem 1rem;
+}
+footer{
+    min-height: 50vh;
+    place-content: end;
+    color: var(--secondary-color);
+    background: var(--primary-color);
+}
+form{
+    padding-block: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+form input{
+    width: 250px;
+    padding: .4rem;
+    color:var(--primary-color);
+    background:var(--secondary-color);
+    border: none;
+}
+form button{
+    color:var(--primary-color);
+    padding: .4rem ;
+    border: none;
+    background:var(--secondary-color);
+}
+form input:focus{
+    outline: none;
+
+}
