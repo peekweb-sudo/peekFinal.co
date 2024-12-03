@@ -15,7 +15,7 @@ function Slidered() {
      };
 
   return (
-    <div className="container">
+    <div id='Portfolio' className="container">
       <div className="slider">
         <h1>Projects</h1>
         <Slider {...settings}>

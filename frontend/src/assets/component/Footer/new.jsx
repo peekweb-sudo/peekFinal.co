@@ -3,7 +3,7 @@ import "./new.css"
 import aset from "../../Assetprop/art.js"
 function News() {
   return (
-    <div className="nw">
+    <div id='Contact' className="nw">
       <div className="news container">
         <div className="newsleft">
           <h1>News</h1>

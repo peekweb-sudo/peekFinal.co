@@ -1,0 +1,24 @@
+
+.blogs-hero{
+    place-content: center;
+    height: 100vh;
+    background: whitesmoke;
+    place-self: center;
+}
+.blogs-hero h1{
+    font-size: 4rem;
+    color: var(--primary-color);
+
+}
+.blogs-hero p{
+font-size: 1.2rem;
+color: var(--primary-color);
+padding-block:1rem ;
+}
+.blogs-hero button{
+    padding: .5rem;
+    color: var(--secondary-color);
+    background: var(--primary-color);
+    border: none;
+    font-weight: 500;
+}

@@ -4,6 +4,9 @@
 
   font-family: "inter", sans-serif;
 }
+html{
+  scroll-behavior: smooth;
+}
 
 :root {
   --primary-color:#081c15 ;

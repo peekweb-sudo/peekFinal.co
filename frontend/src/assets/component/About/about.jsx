@@ -3,7 +3,7 @@ import "./about.css"
 import aset from '../../Assetprop/art'
 function About() {
   return (
-    <div className="ab">
+    <div id='About' className="ab">
       <div className="container">
         <div className="about">
           <img src={aset.img5} alt="" />
