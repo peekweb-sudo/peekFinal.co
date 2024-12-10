@@ -1,4 +1,4 @@
-
+/* 
 
 .copy{
     display: flex;
@@ -18,7 +18,7 @@ footer{
     color: var(--secondary-color);
     background: var(--primary-color);
 }
-form{
+ .downfooter  form{
     padding-block: 1rem;
     display: flex;
     justify-content: space-between;
@@ -39,4 +39,4 @@ form button{
 form input:focus{
     outline: none;
 
-}
+} */

@@ -1,0 +1,34 @@
+.sign-in{
+    height: 100vh;
+    display: flex;
+    place-items: center;
+}
+.sign-in form{
+    background: var(--secondary-color);
+    display: flex;
+    flex-direction: column;
+    border: 2px solid ;
+    padding: 10px;
+    max-width: 500px;
+    margin: 0 auto;
+
+}
+.sign-in form input{
+    padding: .5rem;
+    margin-block: .5rem;
+    font-size: large;
+    border-radius: 4px;
+}
+.sign-in form input:focus{
+    outline: none;
+}
+.sign-in form button{
+    padding: .5rem;
+    font-size: large;
+    font-weight: 500;
+
+}
+.sign-in  form img{
+    width: min-content;
+    margin: 0 auto;
+}

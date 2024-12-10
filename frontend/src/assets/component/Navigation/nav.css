@@ -22,6 +22,9 @@ nav button{
     color: var(--primary-color);
     background: var(--secondary-color);
 }
+nav button a{
+    color: white;
+}
 nav{
     display: flex;
     justify-content: space-between;
